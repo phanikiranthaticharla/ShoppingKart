@@ -1,4 +1,4 @@
-package com.example.inventoryservice.model;
+package com.example.inventoryservice.inventory;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
